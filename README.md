@@ -1,12 +1,15 @@
 This is a blog theme for [Ghost](https://github.com/TryGhost/Ghost), based on [StayPuft](https://github.com/dlecina/StayPuft) made by  [dlecina](https://github.com/dlecina). 
 
 
-# Modifications will be listed here
+## Modifications will be listed here
+
+* Changing views
 
 
-The theme contains this from start:
 
-# StayPuft
+# The theme contains this from start:
+
+## StayPuft
 
 A programming-oriented theme for [Ghost](https://github.com/TryGhost/Ghost). This is the latest development version of StayPuft. If you're just looking to download the latest release, head over to the [releases](https://github.com/dlecina/StayPuft/releases) page.
 
@@ -89,3 +92,4 @@ nodemon current/index.js --watch content/themes/StayPuft --ext hbs,js,css
 
 Copyright (c) 2013-2018 Ghost Foundation - Released under the [MIT license](LICENSE).  
 Copyright (c) 2014-2018 David Lecina Fuentes - Released under the [MIT license](LICENSE).  
+Copyright (c) 2018 Jonathan Stendahl - Released under the [MIT license](LICENSE).  
